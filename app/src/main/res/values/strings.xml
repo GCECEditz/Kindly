@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Kindly</string>
+
+    <!-- Budget Screen StrRes -->
+    <string name="budget_screen_title">BUDGETS</string>
+    <string name="budget_screen_search">Search Budgets</string>
+    <string name="budget_screen_export">Export</string>
+    <string name="budget_screen_ask_ai">Ask AI</string>
+    <string name="budget_screen_share">Share</string>
+    <string name="budget_screen_rename">Rename</string>
+    <string name="budget_screen_delete">Delete</string>
+    <string name="budget_screen_delete_title">Confirm Deletion</string>
+    <string name="budget_screen_delete_msg">Are you sure you want to remove this budget from the list? The sheet will still exist in your drive, but you will have to add it in this application again.</string>
+    <string name="budget_screen_export_toast">Exporting %1$s to Google Sheets…</string>
+    <string name="budget_screen_share_toast">Sharing budget sheet…</string>
+    <string name="budget_screen_rename_toast">Budget Renamed!</string>
+    <string name="budget_screen_rename_new">%1$s Rev2</string>
+    <string name="budget_screen_create">Create</string>
+    <string name="budget_screen_create_title">Create New Budget</string>
+    <string name="budget_screen_rename_title">Rename Budget</string>
+    <string name="budget_screen_add_link">Add Link</string>
+    <string name="budget_screen_link">Sheets Link</string>
+    <string name="budget_screen_add_link_toast">Integrating Google Sheets link…</string>
+    <string name="budget_screen_create_budget_name">Budget Name</string>
+    <string name="budget_screen_create_budget_description">Brief Description</string>
+    <string name="budget_screen_create_budget_allocation">Budget Items Allocation</string>
+    <string name="budget_screen_create_budget_placeholder">e.g. Equipment: RM100.00</string>
+    <string name="budget_screen_create_toast">Budget Created Successfully!</string>
+    <string name="budget_screen_copy_link">Copy Link</string>
+
+    <!-- AI Screen StrRes -->
+    <string name="ai_screen_title">ASK AI</string>
+    <string name="ai_screen_profile_name">Gem</string>
+    <string name="ai_screen_gemini_answering">Gemini is answering…</string>
+    <string name="ai_screen_prompt_examples">Ask anything about proposals, budgets…</string>
+
+    <!-- Generics StrRes -->
+    <string name="generic_create">Create</string>
+    <string name="generic_rename">Rename</string>
+    <string name="generic_cancel">Cancel</string>
+    <string name="generic_delete">Delete</string>
+    <string name="generic_verifying">Verifying…</string>
+
+    <!-- Content Desc StrRes -->
+    <string name="content_desc_search">Search</string>
+    <string name="content_desc_askAI">Ask AI</string>
+    <string name="content_desc_addOptions">Add Options</string>
+    <string name="content_desc_addItem">Add Item</string>
+    <string name="content_desc_back">Back</string>
+    <string name="content_desc_menu">Menu</string>
+    <string name="content_desc_send">Send</string>
+</resources>

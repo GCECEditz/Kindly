@@ -1,0 +1,4 @@
+TODO: allow user to switch between light and dark mode
+TODO: allow ai to save messages using database
+TODO: maybe update supabase CRUD to use .from instead of postgress?
+TODO: handle AI messages when there is no Internet (maybe not?)
